@@ -4,11 +4,12 @@
 
 ## 1.Examine the following normal Quantile plots carefully. Which of these plots indicates that the data …
 
-## I.Are nearly normal? 
-## II.Have a bimodal distribution? (One way to recognize a bimodal shape is a “gap” in the spacing of adjacent data values.)
-## III.Are skewed (i.e. not symmetric) ? IV.Have outliers on both sides of the center?
+### I.Are nearly normal? 
+### II.Have a bimodal distribution? (One way to recognize a bimodal shape is a “gap” in the spacing of adjacent data values.)
+### III.Are skewed (i.e. not symmetric) ? 
+### IV.Have outliers on both sides of the center?
 
-image.png
+![image.png](attachment:95557557-6b7b-432d-b821-656f1a03333f.png)
 
 Ans I - "C" since most of the data points are on the line
 
