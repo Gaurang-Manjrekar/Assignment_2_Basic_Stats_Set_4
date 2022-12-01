@@ -9,7 +9,7 @@
 ### III.Are skewed (i.e. not symmetric) ? 
 ### IV.Have outliers on both sides of the center?
 
-![image.png](attachment:95557557-6b7b-432d-b821-656f1a03333f.png)
+![image](https://user-images.githubusercontent.com/115617589/204980225-be6f0247-8763-4cb2-ac86-86f8032b3c08.png)
 
 Ans I - "C" since most of the data points are on the line
 
